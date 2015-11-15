@@ -1,0 +1,4 @@
+5.0.0p2:2.0.0.0
+StandaloneWindows
+H:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+H:\Unity\Editor\Data\PlaybackEngines\iossupport\UnityEditor.iOS.Extensions.Xcode.dll
